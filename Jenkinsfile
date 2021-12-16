@@ -7,6 +7,7 @@ pipeline {
         PRODUCTION = "sofiane-ajc-prod-env"
         USERNAME = "mustlash"
         CONTAINER_NAME = "alpinehelloworld"
+        EC2_PRODUCTION_HOST = "34.234.204.116"
     }
 
     agent none
